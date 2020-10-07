@@ -1,0 +1,1045 @@
+@media screen and (min-width: 901px) and (max-width: 989px){
+
+	.btn-all{
+	    padding: 14px 40px!important;
+	    font-size: 14px!important;
+	}
+
+
+	.title{
+	    font-size: 30px;
+	    font-weight: 800;
+	}
+
+	.para{
+	    font-size: 16px;
+	    font-weight: 500;
+	}
+
+
+
+	.img-container .orange{
+		width: 140px;
+		height: 140px;
+		bottom:40px;
+		left: 230px;
+	}
+	
+	.img-container .green{
+		top:-30px;
+		right: -90px;
+		width: 200px;
+		height: 200px;
+	}
+	
+	.img-container .blue{
+		top:180px;
+		left: 20px;
+		width: 120px;
+		height: 120px;
+	}
+	
+
+
+	/* ******************  Navbar  ******************* */
+
+	.navbar .navbar-nav{
+		padding: 20px 0;
+		padding: 0px;
+		width: 100%;
+		display: block;
+		grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+		list-style:none;
+		text-align:center;
+		/* background:#324e7b; */
+	}
+	
+	
+	.navbar .nav-link{
+		padding:20px 0!important;
+		font-size: 14px;
+		font-weight: 900;
+		text-transform: uppercase;
+		transition: .4s;
+		letter-spacing: 1px;
+		color:white;
+		opacity: .8;
+	}
+	
+	.navbar .nav-link:hover{
+		color:#86a6df!important;
+	}
+
+
+	/* ************  Header  ****************** */
+    
+    .header-content{
+    	margin-left: 20px;
+	    max-width: 400px;
+    }
+	.header-content h1{
+	    font-size: 32px;
+	}
+
+
+	/* **************  About start   **************** */
+
+	.about{
+	    padding: 50px 0;
+	    height: auto;
+	}
+
+	.about .title{
+	    margin-bottom: 20px;
+	}
+
+	.img-container{
+       text-align: center;
+    }
+
+	.pic1{
+	 position: relative;
+	  width: 300px;
+	  height: 220px;
+	  position: relative;
+	   margin: auto;
+	  position: absolute;
+	  top: -20%; left: 30%; bottom: 0; right: 0;
+	}
+	
+	
+	.pic2{
+	  width: 150px;
+	  height: 150px;
+	  position: absolute;
+	  top: 50px;
+	  left: 20px;
+	  z-index: -2;
+	}
+	
+	.pic3{
+	  width: 220px;
+	  height: 120px;
+	  position: absolute;
+	  bottom: 150px;
+	  right: -80px;
+	}
+
+
+	/* **************  Schools Levels   **************** */
+
+	.btn-next{
+	    margin-right: 10px;
+	}
+
+
+
+	/* ******************  Testimonial start  ************************ */
+
+.block-top{
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+.block-down{
+    position: absolute;
+    top: 130%;
+    left: -20%;
+}
+
+
+/* ******************  Contact start  ******************** */
+
+	.contact{
+	    padding: 0px 0 30px;
+	    width: 100%;
+	    height: auto;
+	}
+
+	.contact img{
+	    width: 100%;
+	    height: 300px;
+	}
+
+	.contact a{
+	    margin-bottom: 30px;
+	}
+
+
+	/* ****************  Footer section  *********************** */
+
+
+	.footer{
+	    padding:50px 10px 10px 10px;
+	}
+
+	.footer .col-md-3{
+		margin-top: 20px;
+	}
+
+	.footer-col ul{
+	    margin-top: 20px;
+	}
+
+
+	.footer-col h4{
+	    font-size: 22px;
+	    margin-bottom: 20px;
+	}
+
+	.footer .copyright p{
+	    margin:20px 0 0;
+	}
+
+}
+
+
+
+
+
+
+@media screen and (min-width: 768px) and (max-width: 900px){
+
+	.btn-all{
+	    padding: 14px 40px!important;
+	    font-size: 14px!important;
+	}
+
+
+	.title{
+	    font-size: 30px;
+	    font-weight: 800;
+	}
+
+	.para{
+	    font-size: 16px;
+	    font-weight: 500;
+	}
+
+
+	/* ************  Header  ****************** */
+    
+    .header-content{
+    	margin-left: 20px;
+	    max-width: 400px;
+    }
+	.header-content h1{
+	    font-size: 32px;
+	}
+
+
+	/* **************  About start   **************** */
+
+	.about{
+	    padding: 50px 0;
+	    height: auto;
+	}
+
+	.about .title{
+	    margin-bottom: 20px;
+	}
+
+	/* .about .para:nth-child(2){
+		display: none;
+	}
+ */
+	.img-container{
+       text-align: center;
+    }
+
+.pic1{
+  width: 300px;
+  height: 200px;
+  top: 0%; left: 0%; bottom: 0; right: 0;
+}
+
+.pic2{
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 80px;
+  left: -20px;
+  z-index: -1;
+}
+
+.pic3{
+  width: 220px;
+  height: 120px;
+  position: absolute;
+  bottom: 120px;
+  right: -20px;
+}
+
+
+	/* **************  Schools Levels   **************** */
+
+	.school-level{
+	    padding: 50px 0 0;
+	    height: auto;
+	}
+
+	.school-level .content{
+	    margin: 0px;
+	}
+
+	.school-level .title{
+	    margin-bottom: 0px;
+	    text-transform: capitalize;
+	    font-size: 30px;
+	}
+
+	.btn-next{
+	    margin-right: 0px;
+	    padding:12px 20px;
+	    font-size: 14px;
+	}
+
+
+
+	 /* *****************  Infrastructure start   ******************** */
+	  
+	 .infrastructure{
+	    padding: 0px;
+	 }
+
+	 .infrastructure .title{
+        font-size: 32px;
+     }
+
+
+	/* ******************  Testimonial start  ************************ */
+
+	.testimonial{
+	    padding: 50px 20px;
+	    /* height: auto; */
+	}
+
+	.testimonial .title{
+		margin: 0 auto;
+	    max-width: 220px;
+	    font-size: 30px;
+	}
+
+	.testimonial .content{
+		text-align: center;
+	    margin-left: 0px;
+	}
+
+	.quote-large{
+	    width: 100px;
+	    margin: 10px 0 30px;
+	}
+
+
+	.block-content{ 
+	    margin: 50px 0;
+	}
+
+
+	.block-top{
+	  margin: 0;
+	}
+
+	 .block{
+	    margin: 20px auto;
+	    width:100%;
+	    max-width: 250px;
+	    height: 280px;
+	}
+
+
+	/* Image */
+	 .block .person-img{
+	 	width: 80px;
+	    height: 80px;
+	    top: 20px;
+	    left: 5px;
+	 }
+
+	/* Image */
+	.block .quote-img{
+	    max-width: 50px;
+	    left: 20px;
+	 }
+
+	.block-info{
+	    padding: 0 10px;
+	    margin: auto 0;
+	}
+
+
+	.block-info h2{
+	    font-size: 14px;
+	    margin-bottom: 20px;
+	}
+
+	.block-info h3{
+	    font-size: 17px;
+	}
+
+	.block-down{
+	    top: 30%;
+	}
+
+
+	/* ******************  Contact start  ******************** */
+
+	.contact{
+	    padding: 0px 0 30px;
+	    width: 100%;
+	    height: auto;
+	}
+
+	.contact img{
+	    width: 100%;
+	    height: 300px;
+	}
+
+	.contact a{
+	    margin-bottom: 30px;
+	}
+
+
+	/* ****************  Footer section  *********************** */
+
+
+	.footer{
+	    padding:50px 10px 10px 10px;
+	}
+
+	.footer .col-md-3{
+		margin-top: 20px;
+	}
+
+	.footer-col ul{
+	    margin-top: 20px;
+	}
+
+
+	.footer-col h4{
+	    font-size: 22px;
+	    margin-bottom: 20px;
+	}
+
+	.footer .copyright p{
+	    margin:20px 0 0;
+	}
+
+}
+
+
+
+
+@media screen and (min-width: 501px) and (max-width: 767px){
+
+	.logo{
+		margin-left:10px;
+	  }
+	  
+	.nav-title h1{
+		font-size: 24px;
+	}
+	
+	.nav-title h4{
+		font-size: 12px;
+	}
+
+
+	.btn-all{
+	    padding: 14px 40px!important;
+	    font-size: 12px!important;
+	}
+
+	.btn-all:hover{
+	    background: transparent!important;
+	    color:#2f89fc;
+	}
+
+
+	.title{
+	    font-size: 28px;
+	    font-weight: 800;
+	}
+
+	.para{
+	    font-size: 16px;
+	    font-weight: 500;
+	}
+
+
+	/* ************  Header  ****************** */
+    
+    .header-content{
+    	margin-left: 20px;
+	    max-width: 300px;
+    }
+	.header-content h1{
+	    font-size: 24px;
+	}
+
+
+	/* **************  About start   **************** */
+
+	.about{
+	    padding: 50px 0;
+	    height: auto;
+	}
+
+	.about .title{
+	    margin-bottom: 20px;
+	}
+
+	.about .para:nth-child(2){
+		display: none;
+	}
+
+	.img-container{
+       text-align: center;
+    }
+
+	.pic1{
+	  margin-top: 30px;
+	  width: 280px;
+	  height: 180px;
+	  position: static;
+	}
+
+	.pic2{
+	  width: 120px;
+	  height: 150px;
+	  position: absolute;
+	  top: -30px;	  
+	  left: 340px;
+	  z-index: -1;
+	}
+
+	.pic3{
+	  width: 200px;
+	  height: 100px;
+	  bottom: -50px;
+	  left: 40px;
+	}
+
+
+	/* **************  Schools Levels   **************** */
+
+	.school-level{
+	    padding: 80px 0 0;
+	    height: auto;
+	}
+
+	.school-level .content{
+	    margin: 0px;
+	}
+
+	.school-level .title{
+	    margin-bottom: 0px;
+	    text-transform: capitalize;
+	    font-size: 30px;
+	}
+
+	.btn-next{
+	    margin-right: 0px;
+	    padding:12px 20px;
+	    font-size: 14px;
+	}
+
+
+
+	 /* *****************  Infrastructure start   ******************** */
+	  
+	 .infrastructure{
+	    padding: 0px;
+	 }
+
+	 .infrastructure .title{
+        font-size: 32px;
+     }
+
+
+	/* ******************  Testimonial start  ************************ */
+
+	.testimonial{
+	    padding: 50px 0px;
+	    height: auto;
+	}
+
+	.testimonial .title{
+		margin: 0 auto;
+	    max-width: 250px;
+	}
+
+	.testimonial .content{
+		text-align: center;
+	    margin-left: 0px;
+	}
+
+	.quote-large{
+	    width: 100px;
+	    margin: 10px 0 30px;
+	}
+
+
+	.block-content{ 
+	    margin: 50px 0;
+	}
+
+
+	.block-top{
+	  margin: 0;
+	}
+
+	 .block{
+	    margin: 20px auto;
+	    width:300px;
+	    height: 280px;
+	}
+
+
+	/* Image */
+	 .block .person-img{
+	 	width: 80px;
+	    height: 80px;
+	    top: 10px;
+	    left: 10px;
+	 }
+
+	/* Image */
+	.block .quote-img{
+	    max-width: 50px;
+	    left: 30px;
+	 }
+
+	.block-info{
+	    padding:20px 10px;
+	}
+
+
+	.block-info h2{
+	    font-size: 16px;
+	    margin-bottom: 20px;
+	}
+
+	.block-info h3{
+	    font-size: 18px;
+	}
+
+	.block-down{
+	    top:0%;
+		position:relative;
+	}
+
+
+	/* ******************  Contact start  ******************** */
+
+	.contact{
+	    padding: 0px 0 30px;
+	    width: 100%;
+	    height: auto;
+	}
+
+	.contact img{
+	    width: 100%;
+	    height: 300px;
+	}
+
+	.contact a{
+	    margin-bottom: 30px;
+	}
+
+
+	/* ****************  Footer section  *********************** */
+
+
+	.footer{
+	    padding:50px 10px 10px 10px;
+	}
+
+	.footer .col-md-3{
+		margin-top: 20px;
+	}
+
+	.footer-col ul{
+	    margin-top: 20px;
+	}
+
+
+	.copyright-container{
+	    flex-direction: column;
+	}
+
+	.footer .copyright p{
+	    margin:20px 0 0;
+	}
+
+
+
+
+	/* ************************************  Contact Page   ************************************************* */
+
+	.contact-page{
+		padding:50px 0 0;
+	}
+	.contact-page .col-lg-6{
+	  margin:0 20px;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media screen and (max-width: 500px){
+
+	.logo{
+		margin-left:5px;
+		padding:0px;
+	}
+
+	.nav-title{
+		margin-left:-1px;
+	}
+	  
+	.nav-title h1{
+		font-size: 18px;
+		text-align:left;
+	}
+	
+	.nav-title h4{
+		font-size: 8px;
+	}
+	
+
+	/* **********  Universal elements   ************ */
+
+	.btn-all{
+	    padding: 12px 30px!important;
+	    font-size: 12px!important;
+	}
+
+	.btn-all:hover{
+	    background: transparent!important;
+	    color:#2f89fc;
+	}
+
+
+	.title{
+	    font-size: 25px;
+	    font-weight: 800;
+	}
+
+	.para{
+	    font-size: 16px;
+	    font-weight: 500;
+	}
+
+
+	/* ************  Header  ****************** */
+
+	.header-content h1{
+	    font-size: 22px;
+	}
+
+
+	/* **************  About start   **************** */
+
+	.about{
+	    padding: 50px 0;
+	    height: auto;
+	}
+
+	.about .title{
+	    margin-bottom: 20px;
+	}
+
+	.about .para:nth-child(2){
+		display: none;
+	}
+
+	.img-container{
+       text-align: center;
+    }
+
+	.pic1{
+	  margin-top: 30px;
+	  width: 280px;
+	  height: 150px;
+	  position: static;
+	}
+
+	.pic2{
+	  width: 100px;
+	  height: 120px;
+	  position: absolute;
+	  top: -20px;
+	  left: 320px;
+	  z-index: -1;
+	}
+
+	.pic3{
+	  width: 150px;
+	  height: 80px;
+	  bottom: -40px;
+	  left: 50px;
+	}
+
+	.img-container .orange{
+		width: 140px;
+		height: 140px;
+		bottom:70px;
+		left: 160px;
+	}
+	
+	.img-container .green{
+		top:-150px;
+		right: -90px;
+		width: 200px;
+		height: 200px;
+	}
+	
+	.img-container .blue{
+		top:160px;
+		left: -20px;
+		width: 120px;
+		height: 120px;
+	}
+
+
+	/* **************  Schools Levels   **************** */
+
+	.school-level{
+	    padding: 80px 0 0;
+	    height: auto;
+	}
+
+	.school-level .content{
+	    margin: 0px;
+	}
+
+	.school-level .title{
+	    margin-bottom: 0px;
+	    text-transform: capitalize;
+	    font-size: 24px;
+	}
+
+	.btn-next{
+	    margin-right: 0px;
+	    padding:10px 20px;
+	    font-size: 12px;
+	}
+
+	.btn-next:before{
+	    width: 32%;
+	}
+
+	.btn-next i{
+	    margin-left: 4px;
+	}
+
+
+
+	 /* ********  Infrastructure start   ********** */
+	  
+	 .infrastructure{
+	    padding: 0px;
+	 }
+
+
+	/* **********  Testimonial start  ************ */
+
+	.testimonial{
+	    padding: 50px 0px;
+	    height: auto;
+	}
+
+	.testimonial .title{
+		margin: 0 auto;
+	    max-width: 250px;
+	}
+
+	.testimonial .content{
+		text-align: center;
+	    margin-left: 0px;
+	}
+
+	.quote-large{
+	    width: 100px;
+	    margin: 10px 0 30px;
+	}
+
+
+	.block-content{ 
+	    margin: 50px 0;
+	}
+
+
+	.block-top{
+	  margin: 0;
+	}
+
+	.block-down{
+		top:0%;
+		position:relative;
+	}
+
+	 .block{
+	    margin: 20px auto;
+	    width:300px;
+	    height: 280px;
+	}
+
+
+	/* Image */
+	 .block .person-img{
+	 	width: 80px;
+	    height: 80px;
+	    top: 10px;
+	    left: 10px;
+	 }
+
+	/* Image */
+	.block .quote-img{
+	    max-width: 50px;
+	    left: 30px;
+	 }
+
+	.block-info{
+	    padding:20px 10px;
+	}
+
+
+	.block-info h2{
+	    font-size: 16px;
+	    margin-bottom: 20px;
+	}
+
+	.block-info h3{
+	    font-size: 18px;
+	}
+
+
+
+	/* **********  Contact start  *********** */
+
+	.contact{
+	    padding: 50px 0 30px;
+	    width: 100%;
+	    height: auto;
+	}
+
+	.contact .sub-title{
+		margin-top:0px;
+	}
+
+	.contact img{
+	    width: 100%;
+	    height: 300px;
+	}
+
+	.contact a{
+	    margin-bottom: 30px;
+	}
+
+
+	/* ********  Footer section  ********** */
+
+
+	.footer{
+	    padding:50px 10px 10px 10px;
+	}
+
+	.footer .col-md-3{
+		margin-top: 20px;
+	}
+
+	.footer-col ul{
+	    margin-top: 20px;
+	}
+
+
+	.copyright-container{
+	    flex-direction: column;
+	}
+
+	.footer .copyright p{
+	    margin:20px 0 0;
+	}
+
+
+
+	/* ******************************   Contact Page   *********************************** */
+	
+	.contact-page .content{
+		padding: 30px 10px;
+	}
+
+	.contact-page .col-11,
+	.contact-page .col-1{
+		padding:0px;
+	}
+
+	.contact-form .title{
+		padding:0 10px;
+		font-size: 40px;
+		text-align:center;
+	}
+
+
+
+	/* ********************************  School Page   ************************************* */
+
+
+	.school-section .row{
+		margin:0 0 50px 0!important;
+	}
+
+	.school-section .header1 h1{
+		font-size: 25px;
+	}
+	
+	.school-section .header2 h2,
+	.school-section .header2 h4{
+		font-size: 14px;
+		font-weight: 600;
+	}
+
+	.school-section .para{
+		padding:20px 20px;
+		font-size:16px;
+	}
+	
+
+} 
+
+
+
+
+
+@media screen and (max-width:989px){
+
+/* ******************  Navbar  ******************* */
+    .navbar{
+       padding:10px!important;
+	}
+
+	.navbar .navbar-nav{
+		padding:5px 10px;
+		text-align:left;
+		display: block;
+	}
+}

@@ -1,0 +1,84 @@
+{
+
+    "photos":[
+        {
+            "id":1,
+            "image":"image/p1.jpg"
+        },
+        {
+            "id":2,
+            "image":"image/p2.jpg"
+        },
+        {
+            "id":3,
+            "image":"image/p3.jpg"
+        },
+        {
+            "id":4,
+            "image":"image/p4.jpg"
+        },
+        {
+            "id":5,
+            "image":"image/p5.jpg"
+        },
+        {
+            "id":6,
+            "image":"image/p6.jpg"
+        },
+        {
+            "id":7,
+            "image":"image/p7.jpg"
+        },
+        {
+            "id":8,
+            "image":"image/p8.jpg"
+        }
+    ],
+
+    "annualday":{
+        
+        "photos":[
+        
+        {
+            "id":1,
+            "image":"image/p1.jpg"
+        },
+        {
+            "id":2,
+            "image":"image/p2.jpg"
+        },
+        {
+            "id":3,
+            "image":"image/p3.jpg"
+        },
+        {
+            "id":4,
+            "image":"image/p4.jpg"
+        },
+        {
+            "id":5,
+            "image":"image/p5.jpg"
+        },
+        {
+            "id":6,
+            "image":"image/p6.jpg"
+        },
+        {
+            "id":7,
+            "image":"image/p7.jpg"
+        },
+        {
+            "id":8,
+            "image":"image/p8.jpg"
+        }
+
+    ],
+    
+    "videos":[
+        {
+            "id":9,
+            "video":"image/ashish.mp4"
+        }
+    ]
+}
+}
